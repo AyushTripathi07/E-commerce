@@ -1,6 +1,6 @@
 # E-commerce Website
 
-This is an e-commerce website built using Docker, microservices, and DevOps technologies.
+This is an e-commerce website built using React, Docker, microservices, and DevOps technologies.
 
 ## Table of Contents
 
